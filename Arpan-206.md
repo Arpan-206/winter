@@ -34,7 +34,7 @@ Here are a few links for individual components though:
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 7.5" ePaper Diplay   | https://www.amazon.in/gp/product/B07Z25LWTS/ | $245  |
-| 3D Printer | https://store.3ding.in/collections/fabx/products/fabx | $350 |
+| 3D Printer | https://www.amazon.in/Flashforge-Adventurer-3-3D-Printer/dp/B07FPSZPK4 | $600 |
 | 3D Filament | https://www.amazon.in/gp/product/B079CHKQTF | $12 |
 | SD Cards | https://www.amazon.in/gp/product/B09MT6XSFW | $8 |
 | USB Type-C Adapter (Raspi) | https://www.amazon.in/gp/product/B09KTRZ5Y9 | $14 |
